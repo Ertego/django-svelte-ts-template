@@ -1,0 +1,5 @@
+# Project exclude paths
+/node_modules/
+/tp/src/reverse.js
+/tp/static/public/
+/venv/
