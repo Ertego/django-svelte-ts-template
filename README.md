@@ -3,7 +3,7 @@
 A template for using Svelte, TypeScript and Django together
 
 ## Supported Features
-- URL resolution from TS
+- URL resolution from TS, using a modified version of [django-js-reverse](https://github.com/ierror/django-js-reverse)
 ```js
 import {Urls} from "./reverse";
 
